@@ -1,1 +1,3 @@
 # browncovid
+
+mission statement
